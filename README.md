@@ -1,5 +1,5 @@
 helLo-worLd
 ===========
 
-The egg
-Then the chicken?
+Hi there, 
+Just trying out new things. 
